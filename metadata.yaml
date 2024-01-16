@@ -1,5 +1,8 @@
 _repo: Les-ruines-en-fleur_72620
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72620-h/images/cover.jpg
 creator:
   author:
     agent_name: Chantepleure, G. (Guy)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33152
     wikipedia: https://fr.wikipedia.org/wiki/Guy_Chantepleure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72620#Les-ruines-en-fleur
 gutenberg_issued: '2024-01-04'
 gutenberg_type: Text
 identifiers:
